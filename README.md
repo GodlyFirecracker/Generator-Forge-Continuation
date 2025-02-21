@@ -1,7 +1,7 @@
-# MCreator generator for Minecraft Forge 1.19.2 Java Edition mods/Datapack.
+# MCreator generator for Minecraft Forge above 1.20.1 Java Edition mods/Datapack.
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-MCreator generator plugin for Minecraft Forge 1.19.2 Java Edition mods/Datapack.
+MCreator generator plugin for Minecraft Forge above 1.20.1 Java Edition mods/Datapack.
 
 ## How to install
 
@@ -9,7 +9,7 @@ Please check https://mcreator.net/wiki/understand-plugins#toc-index-1 for instal
 
 ## Info
 
-This Generator is built over the old official generator, but this one is NOT official, and is not being maintained by the MCreator Team.
+This Generator is built and it is most likely unofficial and is not being maintained by the MCreator Team.
 
 MCreator's official website: https://mcreator.net/
 
